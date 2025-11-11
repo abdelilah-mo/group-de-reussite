@@ -1,0 +1,6 @@
+{
+  "posts": [
+    { "id": 1, "title": "Premier post", "author": "Yassine" },
+    { "id": 2, "title": "Deuxième post", "author": "Ali" }
+  ]
+}
