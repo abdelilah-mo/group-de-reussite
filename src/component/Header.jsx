@@ -17,10 +17,10 @@ export default function Header() {
 
           {/* Menu desktop */}
           <nav className="hidden md:flex space-x-6 text-gray-700 font-medium">
-            <Link to="/">Home</Link>
-            <Link to="/about">About</Link>
-            <Link to="/emplois">Emplois</Link>
-            <Link to="/formation">Formation</Link>
+            <Link to="/group-de-reussite/">Home</Link>
+            <Link to="/group-de-reussite/about">About</Link>
+            <Link to="/group-de-reussite/emplois">Emplois</Link>
+            <Link to="/group-de-reussite/formation">Formation</Link>
           </nav>
 
           {/* Boutons desktop */}
